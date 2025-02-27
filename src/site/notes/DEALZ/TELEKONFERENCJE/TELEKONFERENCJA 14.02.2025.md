@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-27T14:20:44.557+01:00"}
+{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","tags":["Public_Telekonfefencja"],"created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-27T16:49:32.057+01:00"}
 ---
+
+[[BIULETYN/T19/Biuletyn_sklepowy W19.pdf|Biuletyn_sklepowy W19]]
 
 # NOWOŚCI
 ## DOSTAWY MATEKTINGU
