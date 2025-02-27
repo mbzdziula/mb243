@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-05-02-2025/"}
+{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-05-02-2025/","tags":["gardenEntry"]}
 ---
 
 # BIULETYN T20
