@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","tags":["Public","Telekonferencja"],"created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-27T20:37:11.842+01:00"}
+{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","tags":["Public","Telekonferencja"],"noteIcon":"","created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-28T10:14:39.550+01:00"}
 ---
 
 [[BIULETYN/T19/Biuletyn_sklepowy W19.pdf|Biuletyn_sklepowy W19]]
-
+[T23](https://publuu.com/flip-book/464970/1772026/page/1) #gazetka
 # NOWOŚCI
-## DOSTAWY MATEKTINGU
-Uzupełniamy w pliku podsumowań do weekendu. W poniedziałek wychodzi raport zbiorczy o brakach.
+## DOSTAWY MARKETINGU
+Uzupełniamy w pliku podsumowań do weekendu. W poniedziałek wychodzi raport zbiorczy o brakach. 
 
 ## MARKETING
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-05-02-2025/","tags":["Public","Telekonferencja"],"created":"2025-02-05T06:15:36.797+01:00","updated":"2025-02-27T20:36:58.332+01:00"}
+{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-05-02-2025/","tags":["Public","Telekonferencja"],"noteIcon":"","created":"2025-02-05T06:15:36.797+01:00","updated":"2025-02-27T20:36:58.332+01:00"}
 ---
 
 # BIULETYN T20
