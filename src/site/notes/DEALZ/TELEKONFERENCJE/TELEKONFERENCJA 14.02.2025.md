@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","tags":["Public","Telekonferencja"],"noteIcon":"","created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-28T10:14:39.550+01:00"}
+{"dg-publish":true,"permalink":"/dealz/telekonferencje/telekonferencja-14-02-2025/","tags":["Public","Telekonferencja"],"noteIcon":"","created":"2025-02-14T15:48:35.317+01:00","updated":"2025-02-27T21:22:18.488+01:00"}
 ---
 
 [[BIULETYN/T19/Biuletyn_sklepowy W19.pdf|Biuletyn_sklepowy W19]]
